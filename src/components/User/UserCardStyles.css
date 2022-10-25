@@ -1,0 +1,14 @@
+.user-card {
+  border: 1px solid grey;
+  align-items: center;
+  text-align: center;
+  width: 15%;
+  margin: 1%;
+  display: inline-block;
+}
+
+.user-card:hover {
+  background-color: lightgrey;
+  transform: scale(1.06);
+  cursor: pointer;
+}
